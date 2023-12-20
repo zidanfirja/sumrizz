@@ -28,7 +28,7 @@ PATTERN_URL = (
     '(watch\?v=|embed/|v/|.+\?v=)?([^&=%\?]{11})'
 )
 
-API_KEY = "AIzaSyB7mXizuMACOeEs5B37cXyhjrOcG7GAqEE"
+API_KEY = "AIzaSyB7ydnfsfAPuJPJFR_VFgQaAanUCKBvZsc"
 
 OUTPUT_PATH = "YoutubeAudios"
 
@@ -76,7 +76,7 @@ class Transcript(Resource):
         
     # translate
     def translate_text(self, text, target_language):
-        os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = f"deploy-cloud-run-408616-53b62dacd705.json"
+        os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = f"sumrizz-408115-e2f06ec5cc15.json"
 
         translate_client = translate_v2.Client()
 

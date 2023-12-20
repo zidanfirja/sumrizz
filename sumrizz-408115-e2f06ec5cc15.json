@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sumrizz-408115",
+  "private_key_id": "e2f06ec5cc152fd9c447a02336f6d06a625c109a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCVYuhucQoIBupC\nYL+3CL6x+lETvSlF8jK6IYY2JMoiHFOs3dmA+qaF1wooQGfSgInCuJvcN6r6xlAd\n7w+y6oDNTR9tuqbbm1La+WzoB2WYVjvGSGZJHYlFDp/GD00XOfx38/OPAUYiy7RW\n/Os7qh6a6YNAtjAAyUoz5xrRaR0n72/lLVtBU2OQrz8iCblM1znxMOEGpPkvmTS2\nIBlFi1JJp0kLMd246dUCuL+dSpOUv85Je5wW1HxO0Vyoh2R9hhqgDX3fLUyZf/CJ\nm6T1AJnq0dZIS/gOd+Uj6Bh+ZGBhCFlwen9urrBm6sRbRylirKOrFBXPvDO3WRA8\nn/DxF1p5AgMBAAECggEAEG9oj4gHuMDcApAG36IKauXViDSqRwwBuTkpfSj4hR61\nNQJWZOqOqhBxyWJmmcHzBhWN7kFAoiTx2Q09XquOnqeywr2DkIsq5zUEXpW7v3IT\nUvoRqM8jVFHq0Z1K17iVNnREMlJLT1Y2gdCDJ9YMVnJE8rhomRmMPKAbMvlb0BIM\nVOUKR5S4FaIwCwS5NhWS+6oN15Fc1FJsszQ8kL2uaa105TXk/IGuPvN8dt1fS8vk\nhTln0hz8Ta2RZaD23kE3Ozz3MQYm4l//V3Xg4/mT2xlkvTzoYMuTofxeNthb6IzB\nZ38Ug28ntpMDEh5jQY/PUKYlbeCQvh/OQ5d9GLm1IQKBgQDPPWLXTkCU6QAyE9Yi\n/fkcKeL0rXGZmTKT1LMSVGXmglOwSPTuqlEN9mUum+Dii0G90Fv8Otgk5L4pkz0b\nAwfFdpCLWATopFG64k8yWkCYP3hy+RGwAx9N9qO3G9C21mxD08UkmT5M2SIwHppm\nMcYsx6/FGzK5N+EBGREO/TLTKQKBgQC4iNpfAJME0rlVEfAVfmzjcbfetc7oH9Tu\nzztYlifkW9Ap2BJ7B7h7wU4TNSrOdLO1xX0ScTPP51dbjUjHNjJVrbOlNREexDJY\n27SAGgKOy6QYoP/WB9CeJr43tl20EmkZ0cVt6sxVLxVqZgonaiHJ7VNk83zTWfKF\nFxY/ZzYG0QKBgGomtlc0dO4RfxEnifr4fj4H0oGjydl0WCzSuTq9UkjFHtrgM92A\nDe6J8//wxjskO3Nfo45KEear6B/hlF4eqj9h4N4PIsyLRnXkb86J3iZd9HNn0sCG\niOVlXSxwqfLNWD1R3txFRl0Up2dgdZO9ERZk3kqnCM9IqQ7n6Q31cbApAoGAG3by\n2VTijMM4JjsnOmu4lRllvlXc15t1O53IPWULxucLUk8AYSNDB9g7YIx3NIcWACXG\neaozhevuioe6nzunviy+IgaF58hXnfYFJVO5sbsJT0kXCqnbGM63XN9djuF2lwsr\nkTJy+vKpA07wj/Ex2jXiRZIfr+0hNUG8Y+9ekSECgYEAlH0BNDPeOp9nD5ALE/RS\niqPT9LATARtsOTFZYgU/RsJGcYErIRQQ47ZefjbJ8h0pYkvx93L2uA8GVWzxXzgC\nloyh9ovEtTdNj0cshXXitYzl1E++GiqtnaWBDrqb7Oaofit0zeuzFiHNh+AI25VP\n8LK3PM7Ymi4Wvyi2N28RCzQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sumrizz-express-cred@sumrizz-408115.iam.gserviceaccount.com",
+  "client_id": "104603899289189217197",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sumrizz-express-cred%40sumrizz-408115.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,10 @@
+Dockerfile
+README.md
+*.рус
+*.pyo
+*.pyd
+__pycache__
+.pytest_cache
+.idea
+test-file
+app.py

@@ -140,7 +140,7 @@ class Transcript(Resource):
                 result  =  self.translate_text(self.data['summarize'], self.data['language'] )
                 self.data['result'] = result
 
-                return {'status': 'Success', 'body': self.data}, 200
+                return {'status': 'Success', 'body': self.data['result']}, 200
             except FileNotFoundError:
                 return {"error": "Audio file not found"}, 404
             except Exception as e:
@@ -158,7 +158,7 @@ class Transcript(Resource):
                 en_transcription = self.translate_text(self.data['source'], 'en')
                 self.data['en_transcription'] = en_transcription
 
-                # =====================================================
+                # =======================================================
                 summarize = deploytest.run_model(self.data["en_transcription"])
                 self.data['summarize'] = summarize
                 # =====================================================
@@ -166,7 +166,7 @@ class Transcript(Resource):
                 self.data['result'] = result
 
                 
-                return {'status': 'Success', 'body': self.data}, 200
+                return {'status': 'Success', 'body': self.data['result']}, 200
             except Exception as e:
                 return {"error": str(e)}, 400
 
